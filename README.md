@@ -27,7 +27,7 @@ Download the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road
 ### Start
 ##### Run
 Run the following command to run the project:
-python Semantic_Segmentation.py
+`python Semantic_Segmentation.py`
 
 ### Result Exploration
 Sample of pixel mapping on the road can be found in the folder `runs`.  The visualization of the sample of the pixel mapping on the road can be run in the `Semantic_Segmentation_Exploration.ipynb` 
